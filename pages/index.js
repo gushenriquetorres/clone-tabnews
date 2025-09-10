@@ -1,10 +1,5 @@
 function Home() {
-  return (
-    <h1>
-      Gustavo, até o final de 2k26 você será um desenvolvedor em algum lugar do
-      BR. sz'
-    </h1>
-  );
+    return <h1>Eu sinto que falta pouco pra gente deslanchar na vida, ganhar muita grana e viver DE FATO a vida e é bom ter você comigo nisso.</h1>
 }
 
-export default Home;
+export default Home
