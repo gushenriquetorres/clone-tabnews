@@ -1,5 +1,5 @@
 function Home() {
-  return <h1>We are really going to live in Canada 🚀❤️.</h1>;
+  return <h1>I'm going to become bilingual. 🚀❤️.</h1>;
 }
 
 export default Home;
